@@ -19,13 +19,13 @@ public class MainDriver
         t2 = new Town("Sandton", 1653);
         t3 = new Town("Germiston", 1283);
 
-        Person p1 = new Person("Ephraim", "0726215140");
+        Person p1 = new Person("Ephraim", "0987654321");
         Person p2 = new Person("Zoe", "0749540584");
         Person p3 = new Person("Quinton", "0123456788");
         Person p4 = new Person("Faith", "0258147369");
         Person p5 = new Person("Thamo", "0123789456");
 
-        House h1 = new House("Wolkberg", t1, p1);
+        House h1 = new House("Wolfberg", t1, p1);
         House h2 = new House("Turner", t2, p2);
         House h3 = new House("Burger", t3, p3);
         House h4 = new House("Vorster", t1, p5);
