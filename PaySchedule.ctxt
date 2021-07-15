@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PaySchedule()
+comment1.params=weeklyRentDue\ numberOfWeeksForRent
+comment1.target=PaySchedule(int,\ int)
+comment2.params=
+comment2.target=int\ getWeeklyRent()
+comment3.params=
+comment3.target=int\ getNumberOfWeeksForRent()
+comment4.params=
+comment4.target=boolean\ makePayment()
+numComments=5

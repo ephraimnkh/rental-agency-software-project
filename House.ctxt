@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=House()
+comment1.params=street\ town\ owner
+comment1.target=House(java.lang.String,\ Town,\ Person)
+comment10.params=
+comment10.target=java.util.ArrayList\ getTenant()
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=tenant\ rent\ weeksOfLease
+comment3.target=void\ establishLease(Person,\ int,\ int)
+comment4.params=tenant
+comment4.target=boolean\ addTenant(Person)
+comment5.params=
+comment5.target=boolean\ payRent()
+comment6.params=
+comment6.target=java.lang.String\ getStreet()
+comment7.params=
+comment7.target=Town\ getTown()
+comment8.params=
+comment8.target=int\ getPropertyCode()
+comment9.params=
+comment9.target=Person\ getOwner()
+numComments=11
